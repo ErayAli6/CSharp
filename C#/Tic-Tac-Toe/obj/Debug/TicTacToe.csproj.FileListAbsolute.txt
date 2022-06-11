@@ -1,0 +1,22 @@
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\bin\Debug\Upr6(Tic-Tac-Toe).exe.config
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\bin\Debug\Upr6(Tic-Tac-Toe).exe
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\bin\Debug\Upr6(Tic-Tac-Toe).pdb
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\obj\Debug\Upr6(Tic-Tac-Toe).csproj.AssemblyReference.cache
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\obj\Debug\Upr6(Tic-Tac-Toe).csproj.SuggestedBindingRedirects.cache
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\obj\Debug\Upr6_Tic_Tac_Toe_.Form1.resources
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\obj\Debug\Upr6_Tic_Tac_Toe_.Properties.Resources.resources
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\obj\Debug\Upr6(Tic-Tac-Toe).csproj.GenerateResource.cache
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\obj\Debug\Upr6(Tic-Tac-Toe).csproj.CoreCompileInputs.cache
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\obj\Debug\Upr6(Tic-Tac-Toe).exe
+C:\Users\fmi\source\repos\Upr6(Tic-Tac-Toe)\obj\Debug\Upr6(Tic-Tac-Toe).pdb
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\bin\Debug\TicTacToe.exe.config
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\bin\Debug\TicTacToe.exe
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\bin\Debug\TicTacToe.pdb
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\obj\Debug\TicTacToe.exe
+C:\Users\erayc\OneDrive\Работен плот\C#\Tic-Tac-Toe\obj\Debug\TicTacToe.pdb
