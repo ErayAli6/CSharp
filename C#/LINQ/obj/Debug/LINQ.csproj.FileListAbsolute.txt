@@ -1,0 +1,16 @@
+D:\Coding\C#\Uni\Upr8.1\bin\Debug\Upr8.1.exe.config
+D:\Coding\C#\Uni\Upr8.1\bin\Debug\Upr8.1.exe
+D:\Coding\C#\Uni\Upr8.1\bin\Debug\Upr8.1.pdb
+D:\Coding\C#\Uni\Upr8.1\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\Coding\C#\Uni\Upr8.1\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Uni\Upr8.1\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Uni\Upr8.1\obj\Debug\Upr8.1.exe
+D:\Coding\C#\Uni\Upr8.1\obj\Debug\Upr8.1.pdb
+C:\Users\erayc\OneDrive\Работен плот\C#\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\erayc\OneDrive\Работен плот\C#\LINQ\bin\Debug\LINQ.exe
+C:\Users\erayc\OneDrive\Работен плот\C#\LINQ\bin\Debug\LINQ.pdb
+C:\Users\erayc\OneDrive\Работен плот\C#\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\LINQ\obj\Debug\LINQ.exe
+C:\Users\erayc\OneDrive\Работен плот\C#\LINQ\obj\Debug\LINQ.pdb
