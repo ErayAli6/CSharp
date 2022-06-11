@@ -1,0 +1,8 @@
+C:\Users\erayc\OneDrive\Работен плот\C#\Garden\HW2\bin\Debug\GardenProgram.exe.config
+C:\Users\erayc\OneDrive\Работен плот\C#\Garden\HW2\bin\Debug\GardenProgram.exe
+C:\Users\erayc\OneDrive\Работен плот\C#\Garden\HW2\bin\Debug\GardenProgram.pdb
+C:\Users\erayc\OneDrive\Работен плот\C#\Garden\HW2\obj\Debug\GardenProgram.csproj.AssemblyReference.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\Garden\HW2\obj\Debug\GardenProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\Garden\HW2\obj\Debug\GardenProgram.csproj.CoreCompileInputs.cache
+C:\Users\erayc\OneDrive\Работен плот\C#\Garden\HW2\obj\Debug\GardenProgram.exe
+C:\Users\erayc\OneDrive\Работен плот\C#\Garden\HW2\obj\Debug\GardenProgram.pdb
